@@ -1,0 +1,43 @@
+html,
+body {
+  background: url('../Assets/MicrosoftTeams-imag.png') no-repeat center center fixed;
+  background-repeat: no-repeat;
+  /* min-height: 100%; */
+  /* overflow: hidden; */
+  background-size: cover;
+}
+
+/* html {
+  background: url('../Assets/healthcare-predict-cyberattacks.jpg') no-repeat center center fixed;
+  /* background-image: url("../Assets/healthcare-predict-cyberattacks.jpg");
+  background-repeat: no-repeat; */
+/* background-size: cover; */
+/* overflow: hidden; */
+/* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; */
+/* } */
+
+*/ .labelEvent {
+  color: white;
+}
+
+.inputEvent {
+  background: transparent;
+  /* border: none; */
+}
+
+.borderThick {
+  border: 2px solid white;
+  border-radius: 0%;
+  color: white;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: small;
+  font-weight: 600;
+}
+
+.borderThick:hover {
+  background-color: white;
+  color: rgb(128, 128, 128)
+}
